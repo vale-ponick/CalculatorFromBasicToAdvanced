@@ -28,6 +28,7 @@
 			membershipExceptions = (
 				basicLevel/basicCalculator.swift,
 				calculatorFromAlexEfimov/calculatorWithEnumAndFunction.swift,
+				IntermediateLevel/functionBasedCalculator.swift,
 				IntermediateLevel/safeCalculator.swift,
 			);
 			target = 583CB8682EC0828500FC5B88 /* CalculatorFromBasicToAdvanced */;

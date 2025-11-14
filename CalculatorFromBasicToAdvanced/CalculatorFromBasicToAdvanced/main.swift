@@ -13,4 +13,5 @@ print("-- Calculator: basic level --")
 
 print("🏆 -- Calculator: intermediate level --")
 
-print("?")
+print("🏆 -- Calculator: from Alex Efimov --")
+
